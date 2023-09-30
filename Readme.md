@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Nikita_Kargin_22PT1
 ==================================
